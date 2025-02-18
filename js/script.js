@@ -1,4 +1,4 @@
-// Dom Elements 
+a// Dom Elements 
  const hourEl= document.querySelector('.hour');
   const minuteEl= document.querySelector('.minute');
 const valueEl = document.querySelector ('.value');
@@ -183,7 +183,7 @@ decimalEl.addEventListener('click', () => {
     }
 });
 
-
+//can you add some features please 
 
 
 
